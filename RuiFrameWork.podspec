@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name         = "RuiFrameWork"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "Hello RuiFrameWork"
   spec.homepage     = "https://www.baidu.com"
 
