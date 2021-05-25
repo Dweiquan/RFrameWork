@@ -4,25 +4,25 @@ Pod::Spec.new do |spec|
 
   spec.name         = "RFrameWork"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of RFrameWork."
-  spec.homepage     = "http://EXAMPLE/RFrameWork"
+  spec.summary      = "Hello RFrameWork"
+  spec.homepage     = "https://www.baidu.com"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  spec.license      = "MIT (example)"
+  spec.license      = "MIT"
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  spec.author             = { "dengweiquan02" => "466@xiaoruirui" }
+  spec.author             = { "Dweiquan" => "xiaodeng@123" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  # spec.platform     = :ios
-  # spec.ios.deployment_target = "5.0"
+   spec.platform     = :ios
+   spec.ios.deployment_target = "5.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  spec.source       = { :git => "http://EXAMPLE/RFrameWork.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/Dweiquan/RFrameWork.git", :tag => "#{spec.version}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
