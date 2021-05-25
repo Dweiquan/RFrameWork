@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  spec.source_files  = "GitSDK/GitSDK", "GitSDK/GitSDK/**/*.{h,m}"
+  spec.source_files  = "GitSDK", "GitSDK/GitSDK/**/*.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
   spec.public_header_files = "GitSDK/GitSDK/**/*.h"
 
